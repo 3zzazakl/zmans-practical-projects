@@ -1,0 +1,3 @@
+// ERROR: variable 'y' not declared
+int x;
+y = 42;

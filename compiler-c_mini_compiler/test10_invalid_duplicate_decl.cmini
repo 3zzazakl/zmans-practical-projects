@@ -1,0 +1,3 @@
+// ERROR: variable re-declaration
+int value;
+int value = 10;

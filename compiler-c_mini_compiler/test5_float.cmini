@@ -1,0 +1,7 @@
+// Float variables and mixed int/float
+float pi = 3.14;
+float r = 2.5;
+float area;
+area = pi * r * r;
+int radius = 2;
+float circ = 2 * pi * radius;

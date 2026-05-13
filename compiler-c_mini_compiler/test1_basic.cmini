@@ -1,0 +1,7 @@
+// Basic declarations and arithmetic
+int x;
+int y = 10;
+int z;
+z = x + y;
+x = 5;
+int w = z * 2;

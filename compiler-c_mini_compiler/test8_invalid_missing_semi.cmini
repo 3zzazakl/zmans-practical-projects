@@ -1,0 +1,3 @@
+// ERROR: missing semicolon after declaration
+int x
+x = 5;

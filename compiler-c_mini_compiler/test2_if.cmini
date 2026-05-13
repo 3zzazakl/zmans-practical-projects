@@ -1,0 +1,11 @@
+// If and if-else statements
+int a = 5;
+int b = 10;
+int max;
+if (a > b) {
+    max = a;
+} else {
+    max = b;
+}
+int flag;
+if (max > 0) flag = 1;

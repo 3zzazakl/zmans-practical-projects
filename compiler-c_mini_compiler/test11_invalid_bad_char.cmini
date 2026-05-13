@@ -1,0 +1,3 @@
+// ERROR: illegal character '$'
+int a;
+a = $5;

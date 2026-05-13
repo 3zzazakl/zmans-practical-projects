@@ -1,0 +1,14 @@
+// Nested compound statements
+int a = 2;
+int b = 3;
+int c;
+if (a < b) {
+    int temp;
+    temp = a;
+    a = b;
+    b = temp;
+    c = a - b;
+}
+while (c > 0) {
+    c = c / 2;
+}

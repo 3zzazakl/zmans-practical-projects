@@ -1,0 +1,3 @@
+// ERROR: assigning float to int
+int a;
+a = 3.14;

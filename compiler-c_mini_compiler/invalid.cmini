@@ -1,0 +1,4 @@
+int x;
+y = 5;      // y undeclared
+x = 3.14;   // type mismatch
+x = 5;      // missing semicolon

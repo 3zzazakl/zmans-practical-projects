@@ -1,0 +1,4 @@
+// This is a line comment
+int a; /* block comment */
+a = /* inner */ 10;
+// a = 20; (commented out code)
